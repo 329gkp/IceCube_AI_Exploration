@@ -3,6 +3,14 @@ the incident direction of a neutrino.
 
 ---
 
+**Contents**
+
+Notebook 1: introduction.ipynb
+
+Notebook 2: sklearn_approaches.ipynb
+
+
+
 **Background**
 
 The IceCube Neutrino Observatory detects particles called neutrinos using over 5,000 sensors buried deep
@@ -15,3 +23,4 @@ imperfections that keep light from neutrino events from perfectly propagating.  
 neutrino direction to trace the particle to a celestial object millions to billions of lightyears away, tamping down these sources of noise and being as accurate as possible is the highest priority.  For more on IceCube and neutrinos, explore the resources provided below.
 
 **Resources**
+
