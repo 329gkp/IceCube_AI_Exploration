@@ -1,6 +1,8 @@
 Welcome to my personal AI project, where I study how well different AI methods reconstruct
 the incident direction of a neutrino.
 
+![](https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif)
+
 ---
 
 **Contents**
