@@ -2,7 +2,7 @@ Welcome to my personal AI project, where I study how well different AI methods r
 the incident direction of a neutrino.
 
 ![](https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif)
-
+<!-- <img src="https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif" width="250" height="250"/> -->
 ---
 
 **Contents**
