@@ -3,7 +3,11 @@
 Explore the curriculum of notebooks in this repository to learn how common machine learning and AI tools work, and why some are better suited for certain tasks over others.  For this project, we use data from a particle detector called the IceCube Neutrino Observatory as our example, where the goal is to determine, as accurately as possible, the incident direction of particles called neutrinos when they appear in the detector.
 
 <!-- ![](https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif) -->
-<img src="https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif" width="50%" height="50%"/>
+<!-- <img src="https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif" width="50%" height="50%"/> -->
+<div style="overflow: hidden;">
+  <img src="https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif" style="width: 100%; height: auto; margin-left: -15%; margin-right: -15%; margin-bottom: -5%;">
+</div>
+
 ---
 
 ### **Contents**
