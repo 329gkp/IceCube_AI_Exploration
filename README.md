@@ -5,7 +5,7 @@ Explore the curriculum of notebooks in this repository to learn how common machi
 <!-- ![](https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif) -->
 <!-- <img src="https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif" width="50%" height="50%"/> -->
 <div style="overflow: hidden;">
-  <img src="https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif" style="width: 100%; height: auto; margin-left: -15%; margin-right: -15%; margin-bottom: -5%;">
+  <img src="https://github.com/329gkp/IceCube_AI_Exploration/blob/main/Graphics/72_rotation.gif" style="width: 50%; height: 50%; margin-left: -15%; margin-right: -15%; margin-bottom: -5%;">
 </div>
 
 ---
